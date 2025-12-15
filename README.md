@@ -444,15 +444,14 @@ TechFeed is built with the open source community in mind:
 ## 📞 Contact & Support
 
 ### Project Maintainers
-- **Lead Developer**: [Your Name]
+- **Lead Developer**: Axshul
 - **Architecture**: Modern full-stack web development
 - **Specialization**: React, Next.js, TypeScript, PostgreSQL
 
 ### Community Links
-- **GitHub**: [Repository Link]
-- **Documentation**: [Docs Link]
-- **Live Demo**: [Demo Link]
-- **Discord**: [Community Link]
+- **GitHub**: https://github.com/TechFeed/
+- **Documentation**: https://github.com/Tech-Feeding/
+- **Live Demo**: https://tech-feed-ochre.vercel.app/
 
 ### Business Inquiries
 - **Partnerships**: Open to collaboration opportunities
